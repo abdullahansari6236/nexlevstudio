@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://nexlevstudio.netlify.app/sitemap.xml
+Sitemap: https://mazharmediastudio.netlify.app/sitemap.xml
